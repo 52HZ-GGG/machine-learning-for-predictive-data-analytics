@@ -20,7 +20,7 @@ or业务方是否有能力使用模型输出的结果？
 **ABT 是把多源历史数据压成「一行一个预测对象、最后一列是标签」的宽表；模型只认这张表。**
 ## ABT是什么？
 Analytics Base Table（分析基础表）：承载历史数据、用于监督学习的基本结构。
-![alt text](<The general structure of an analytics base table.png>)
+![alt text](./photos/The general structure of an analytics base table.png)
 术语对齐：
 
 列 = feature（特征）

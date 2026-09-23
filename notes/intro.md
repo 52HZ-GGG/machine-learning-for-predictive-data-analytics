@@ -44,4 +44,4 @@ predictive data analytics projects is the Cross Industry
 Standard Process for Data Mining (CRISP-DM)
 
 跨行业数据挖掘标准流程
-![alt text](CRISP-DM.png)
+![alt text](./photos/CRISP-DM.png)
