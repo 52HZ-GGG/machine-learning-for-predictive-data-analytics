@@ -85,7 +85,7 @@
 | **直方图 Histogram** | 连续特征 | 将取值范围切成 bins，统计各 bin 频数/密度 |
 | **箱线图 Box plot** | 连续特征 | 中位数、Q1、Q3、须，便于看分布与离群 |
 
-![alt text](./photos/Box plot.png)
+![alt text](./photos/Box%20plot.png)
 
 ---
 
@@ -335,13 +335,13 @@ $$
 
 - 对其中一个特征的每个水平，画一张“另一特征”的条形图
 - 便于比较不同水平下，另一特征的频数/占比结构
-  ![alt text](./photos/Small multiple bar plots.png)
+  ![alt text](./photos/Small%20multiple%20bar%20plots.png)
 
 **堆叠条形图（Stacked bar plot）**
 
 - 当其中一个特征的**水平数 ≤ 3** 时，可用堆叠条形作小多图的替代
 - 一根柱子内分段显示另一特征各水平的构成
-![alt text](./photos/Stacked bar plot.png)
+![alt text](./photos/Stacked%20bar%20plot.png)
 ---
 
 ### 6.1.4 分类 × 连续：分组直方图 / 分组箱线图
